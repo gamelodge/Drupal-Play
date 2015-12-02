@@ -1,0 +1,12 @@
+name: Currency Intl
+description: Formats amounts according the locales of users using the PHP Intl extension.
+# core: 8.x
+type: module
+dependencies:
+  - currency
+
+# Information added by Drupal.org packaging script on 2015-11-28
+version: '8.x-3.0-rc1+4-dev'
+core: '8.x'
+project: 'currency'
+datestamp: 1448727312
